@@ -45,7 +45,8 @@
 <div id="wrapper">
 	<div id="container">
 		<div id="left">
-			<p>This is the left column</p>
+			<p>This is the left column
+			</p>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>
@@ -57,9 +58,10 @@
 			<p>This is 3rd right</p>
 		</div>
 	</div>
-	<hr size="5%" width="85%" align="center">
 	<div id="left_f">
-		<p>Hello</p>
+		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
+		<p style="float:right; display:inline;">Keep In Touch
+		</p>
 	</div>
 </div>
 </body>

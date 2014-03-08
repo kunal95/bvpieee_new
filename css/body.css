@@ -1,0 +1,34 @@
+#wrapper {
+text-align:justify;
+width:100%;
+margin:2% 0 0 0;
+}
+
+#left{
+float:left;
+height:120%;
+width:73%;
+border-style:double;
+margin:0 0 0 2%;
+}
+
+#right{
+float:left;
+height:40%;
+width:23%;
+border-style : double;
+margin:0 2% 0 0;
+}
+
+#footer {
+text-align:justify;
+width:100%;
+}
+
+#left_f{
+clear:both;
+float:left;
+height:auto;
+width:100%;
+border-style:double;
+}

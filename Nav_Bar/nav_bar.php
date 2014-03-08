@@ -53,7 +53,6 @@
 					<a href="#">Contact Us</a>
 				</li>
 			</ul>
-			<div class="filler-below"></div>
 		</div>
 		<script src="Nav_Bar/js/cbpTooltipMenu.min.js"></script>
 		<script>

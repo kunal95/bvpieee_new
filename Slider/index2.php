@@ -7,7 +7,7 @@
 		<noscript>
 			<link rel="stylesheet" type="text/css" href="slider/css/styleNoJS.css" />
 		</noscript>
-			<div class="container demo-2">
+			<div class="container_2 demo-2">
 	
             <div id="slider" class="sl-slider-wrapper">
 

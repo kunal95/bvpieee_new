@@ -45,7 +45,7 @@
 				}
 			}
 		</script>
-<?php include ("NavBar/Nav1.php"); ?>
+<?php include ("Nav_Bar/nav_bar.php"); ?>
 <br>
 <div id="wrapper">
 	<div id="container">

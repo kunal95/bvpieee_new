@@ -5,6 +5,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"> 
 		<title>BVPIEEE | Passion To Perfection</title>
 		<link rel="stylesheet" href="css/body.css" type="text/css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script src="js/jquery.fittext.js"></script>
+		<script>
+			jQuery("#responsive_headline").fitText();
+		</script>
 	</head>
 <body>
 <?php include ("Header/header.php"); ?>

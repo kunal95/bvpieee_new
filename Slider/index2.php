@@ -1,4 +1,4 @@
-<?php echo'
+<?php echo '
 		<link rel="shortcut icon" href="../favicon.ico"> 
 		<link rel="stylesheet" type="text/css" href="slider/css/demo.css" />
         <link rel="stylesheet" type="text/css" href="slider/css/style.css" />
@@ -7,14 +7,15 @@
 		<noscript>
 			<link rel="stylesheet" type="text/css" href="slider/css/styleNoJS.css" />
 		</noscript>
-			<div class="container_2 demo-2">
-	
-            <div id="slider" class="sl-slider-wrapper">
+    
+    <div class="container_2 demo-2">
+		
+			<div id="slider" class="sl-slider-wrapper">
 
 				<div class="sl-slider">
 				
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
-						<div class="sl-slide-inner">
+					<div class="sl-slide-inner">
 							<div class="bg-img bg-img-1"></div>
 							<h2>A bene placito.</h2>
 							<blockquote><p>You have just dined, and however scrupulously the slaughterhouse is concealed in the graceful distance of miles, there is complicity.</p><cite>Ralph Waldo Emerson</cite></blockquote>
@@ -33,7 +34,7 @@
 						<div class="sl-slide-inner">
 							<div class="bg-img bg-img-3"></div>
 							<h2>Dum spiro, spero.</h2>
-							<blockquote><p>Thousands of people who say they lov animals sit down once or twice a day to enjoy the flesh of creatures who have been utterly deprived of everything that could make their lives worth living and who endured the awful suffering and the terror of the abattoirs.</p><cite>Dame Jane Morris Goodall</cite></blockquote>
+							<blockquote><p>Thousands of people who say they love animals sit down once or twice a day to enjoy the flesh of creatures who have been utterly deprived of everything that could make their lives worth living and who endured the awful suffering and the terror of the abattoirs.</p><cite>Dame Jane Morris Goodall</cite></blockquote>
 						</div>
 					</div>
 					
@@ -63,8 +64,9 @@
 				</nav>
 
 			</div><!-- /slider-wrapper -->
-
-        </div>
+	    </div>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 		<script type="text/javascript" src="slider/js/jquery.ba-cond.min.js"></script>
-		<script type="text/javascript" src="slider/js/jquery.slitslider.js"></script>';?>
+		<script type="text/javascript" src="slider/js/jquery.slitslider.js"></script>'?>
+			</body>
+</html>

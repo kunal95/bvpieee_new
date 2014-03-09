@@ -6,7 +6,7 @@ margin:2% 0 0 0;
 
 #left{
 float:left;
-height:240%;
+height:120%;
 width:69%;
 border-style:double;
 margin:0 0 2% 5%;
@@ -14,7 +14,7 @@ margin:0 0 2% 5%;
 
 #right{
 float:left;
-height:80%;
+height:40%;
 width:19%;
 border-style : double;
 margin:0 5% 0 2%;

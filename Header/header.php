@@ -8,7 +8,7 @@
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
 				<section style="float:left; margin-top:-3.1%;">
-				<p><button id="trigger-overlay" type="button">Note From The Chairperson</button></p>
+					<p><button id="trigger-overlay" type="button">Note From The Chairperson</button></p>
 				</section>
 				<span class="right">
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE.org</span></a>

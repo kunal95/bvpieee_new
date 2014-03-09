@@ -34,6 +34,7 @@
 .container_2 {
 	width: 100%;
 	position: relative;
+	z-index:-1;
 }
 
 .clr {

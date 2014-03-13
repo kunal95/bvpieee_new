@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="header/css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="header/css/style5.css" />
   		<script src="header/js/modernizr.custom.js"></script>
-		<div class="container"  style="background:url(img/bg1.png); z-index:-500; height:360px;">
+		<div class="container"  style="background:rgba(211, 211, 211, 1); z-index:-500; height:360px;">
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
 				<section style="float:left; margin-top:-3.1%;">

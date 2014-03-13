@@ -15,6 +15,7 @@
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Xplore Digital Library</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Standards</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Spectrum</span></a>
+					<a class="codrops-icon codrops-icon-drop" href=""><span>SignUp/Login</span></a>
 				</span>
 			</div>
 			<header class="codrops-header">
@@ -46,6 +47,7 @@
 					</li>
 				</ul>
 			</nav>
+				
 		</div>
 		<script src="header/js/classie.js"></script>
 		<script src="header/js/demo1.js"></script>';?>

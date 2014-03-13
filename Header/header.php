@@ -21,8 +21,8 @@
 			<br>
 			<header class="codrops-header">
 				<h1 style="margin:-11% 0 12% 0;">
-					<img src="header/img/BVPIEEE.png" style="float:left; margin-left:1;" width="450">
-					<div style="float:right; margin:3% 1% 0 0;">
+					<img src="header/img/BVPIEEE.png" style="float:left; margin-left:2%;" width="450">
+					<div style="float:right; margin:3% 3% 0 0;">
 						<img src="header/img/IEEE.png"  width="130">	
 						<br>
 						<img src="header/img/bvp_logo.png"  width="130">

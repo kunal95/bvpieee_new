@@ -4,9 +4,9 @@
 		<link rel="stylesheet" type="text/css" href="header/css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="header/css/style5.css" />
   		<script src="header/js/modernizr.custom.js"></script>
-		<div class="container"  style="background:rgba(211, 211, 211, 1);height:360px;">
+		<div class="container"  style="background:rgba(211, 211, 211, 1); z-index:-500; height:360px;">
 			<!-- Top Navigation -->
-			<div class="codrops-top clearfix">
+			<div class="codrops-top ">
 				<section style="float:left; margin-top:-3.1%;">
 					<p><button id="trigger-overlay" type="button">Note from the Chairperson</button></p>
 				</section>
@@ -17,11 +17,12 @@
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Spectrum</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>SignUp/Login</span></a>
 				</span>
-			</div>
-			<br>
-			<header class="codrops-header">
+                </div>
+                <br>
+                <br>
+		  	<header class="codrops-header">
 				<h1 style="margin:-3% 0 12% 0;">
-					<img src="header/img/BVPIEEE.png" style="float:left; margin-left:2%;" width="450">
+					<img src="header/img/BVPIEEE.png" style="float:left; margin-left:-20%;" width="450">
 					<div style="float:right; margin:3% 3% 0 0;">
 						<img src="header/img/IEEE.png"  width="130">	
 						<br>
@@ -29,6 +30,7 @@
 					</div>
 				</h1>
 			</header>
+            		
 		</div><!-- /container -->
 		<!-- open/close -->
 		<div class="overlay overlay-scale">

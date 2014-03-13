@@ -8,7 +8,7 @@
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
 				<section style="float:left; margin-top:-3.1%;">
-					<p><button id="trigger-overlay" type="button">Note From The Chairperson</button></p>
+					<p><button id="trigger-overlay" type="button">Note from the Chairperson</button></p>
 				</section>
 				<span class="right">
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE.org</span></a>
@@ -34,7 +34,7 @@
 			<aside align="center" style="margin-top:5%;">
 			    <p><font color="black" face="impact">Note from the Chairperson</font></p>
 			    <br>
-			    <img alt="" src="header/img/haresh.jpg" border="50" height="150" width="150"><br><br>
+			    <img alt="" src="header/img/haresh.png" border="50" height="150" width="150"><br><br>
 			    <p>Haresh Singh<br>(Chairperson)</p>
 			</aside>
 			<nav style="margin-top:-6%;">

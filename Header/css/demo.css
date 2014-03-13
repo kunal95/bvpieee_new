@@ -107,10 +107,9 @@ section button {
 	display: inline-block;
 	background: #a9a9a9;
 	color: #fff;
-	font-weight: 400;
+	font-weight: initial;
 	padding: 10px 20px;
 	margin: 5px;
-	text-transform: uppercase;
 	border-radius: 	0 0 10px 10px ;
 	letter-spacing: 1px;
 }

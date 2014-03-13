@@ -31,13 +31,13 @@
 		<!-- open/close -->
 		<div class="overlay overlay-scale">
 			<button type="button" class="overlay-close">Close</button>
-			<aside align="center">
+			<aside align="center" style="margin-top:5%;">
 			    <p><font color="black" face="impact">Note from the Chairperson</font></p>
 			    <br>
 			    <img alt="" src="header/img/haresh.jpg" border="50" height="150" width="150"><br><br>
 			    <p>Haresh Singh<br>(Chairperson)</p>
 			</aside>
-			<nav style="margin-top:-10%;">
+			<nav style="margin-top:-6%;">
 				<ul>
 					<li>
 					<p><strong>Welcome to the website of the IEEE Student Branch of Bharati Vidyapeeth&rsquo;s College of Engineering, BVPIEEE. Institute of Electrical and Electronics Engineers (IEEE) is the world&rsquo;s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. We at BVPIEEE have always promoted IEEE as a common platform to share knowledge through interactive sessions, seminars, field trips, conferences and have stayed true to the essence of IEEE. Our aim is to create a talent pool where students interact and exchange ideas, network with people from various institutions and disciplines, and most importantly, learn in the process.</strong></p>

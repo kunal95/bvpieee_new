@@ -22,7 +22,7 @@
 	width: 90%;
 	max-width: 69em;
 	margin: 0 auto;
-	z-index: -1;
+	z-index: 1;
 	position: relative;
 	padding: 2.875em 1.875em 1.875em;
 }
@@ -30,7 +30,7 @@
 .nav {
 	height: 15%;
 	position: relative;
-	z-index:-1;
+	z-index:1;
 }
 0
 .filler-above,

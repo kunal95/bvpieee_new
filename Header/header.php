@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="header/css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="header/css/style5.css" />
   		<script src="header/js/modernizr.custom.js"></script>
-		<div class="container">
+		<div class="container"  style="background:url(img/bg1.png); z-index:-500; height:360px;">
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
 				<section style="float:left; margin-top:-3.1%;">
@@ -20,7 +20,7 @@
 			</div>
 			<br>
 			<header class="codrops-header">
-				<h1 style="margin:-11% 0 12% 0;">
+				<h1 style="margin:-3% 0 12% 0;">
 					<img src="header/img/BVPIEEE.png" style="float:left; margin-left:2%;" width="450">
 					<div style="float:right; margin:3% 3% 0 0;">
 						<img src="header/img/IEEE.png"  width="130">	

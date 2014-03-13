@@ -126,7 +126,7 @@
 			</p>
 		</div>
 		<div id="right">
-			<p>This is 1st right</p>
+			<p> <iframe src="https://www.google.com/calendar/embed?title=BVPIEEE%20&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=400&amp;wkst=1&amp;hl=en_GB&amp;bgcolor=%23ccccff&amp;src=bvpieee%40gmail.com&amp;color=%232952A3&amp;ctz=Asia%2FCalcutta" style=" border-width:0 " width="400" height="400" frameborder="0" scrolling="no"></iframe></p>
 		</div>
 		<div id="right">
 			<p>This is 2nd right</p>

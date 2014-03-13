@@ -17,11 +17,9 @@
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Spectrum</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>SignUp/Login</span></a>
 				</span>
-			</div>
-			<br>
-			<header class="codrops-header">
+		  	<header class="codrops-header">
 				<h1 style="margin:-3% 0 12% 0;">
-					<img src="header/img/BVPIEEE.png" style="float:left; margin-left:2%;" width="450">
+					<img src="header/img/BVPIEEE.png" style="float:left; margin-left:0%;" width="450">
 					<div style="float:right; margin:3% 3% 0 0;">
 						<img src="header/img/IEEE.png"  width="130">	
 						<br>
@@ -29,6 +27,7 @@
 					</div>
 				</h1>
 			</header>
+            		</div>
 		</div><!-- /container -->
 		<!-- open/close -->
 		<div class="overlay overlay-scale">

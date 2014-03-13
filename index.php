@@ -10,10 +10,12 @@
 		<script>
 			jQuery("#responsive_headline").fitText();
 		</script>
+		<?php include ("Header/header.php"); ?>
 	</head>
-<body>
+	
+	<body>
 
-<?php include ("Header/header.php"); ?>
+
 
 <script>
 			//  The function to change the class

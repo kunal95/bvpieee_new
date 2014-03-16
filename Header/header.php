@@ -32,7 +32,7 @@
 			</header>
 		</div><!-- /container -->
 		<!-- open/close -->
-		<div class="overlay overlay-scale">
+		<div class="overlay overlay-scale" style="overflow:scroll">
 			<button type="button" class="overlay-close">Close</button>
 			<aside align="center" style="margin-top:5%;">
 			    <p><font color="black" face="calibri" size="5.5"><b>Note from the Chairperson</b></font></p>

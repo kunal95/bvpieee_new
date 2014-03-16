@@ -140,6 +140,11 @@
 	</div>
 	<div id="left_f">
 		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
+        <ul>
+            <li id="fb"><a href=""></a></li>
+            <li id="tw"><a href=""></a></li>
+            <li id="gpl"><a href=""></a></li>
+        </ul>
 		<p style="float:right; display:inline;">Keep In Touch
 		</p>
 		<div id="slideshow">

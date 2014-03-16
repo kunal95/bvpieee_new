@@ -15,13 +15,13 @@
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Xplore Digital Library</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Standards</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Spectrum</span></a>
-					<a class="codrops-icon codrops-icon-drop" href=""><span>SignUp/Login</span></a>
+					<a class="codrops-icon codrops-icon-drop" href=""><span style="color:rgba(66,158,229,1)">SignUp/Login</span></a>
 				</span>
 			</div>
 			<br>
 			<header class="codrops-header">
 				<h1 style="margin:-3% 0 12% 0;">
-					<img src="header/img/BVPIEEE.png" style="float:center;" width="480">
+					<img src="header/img/BVPIEEE.png" style="float:center;" width="530">
 					<div style="float:right; margin:4% 3% 0 0;">
 						<img src="header/img/IEEE.png"  width="180">	
 					</div>

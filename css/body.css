@@ -55,14 +55,23 @@ background:blue;
     bottom: 10px; 
 }
 
-#fb{left:34px;width:38px;}
-#fb{background:url('img\social.png') 0 0;}
-#fb a:hover{background: url('img\social.png') 0 -45px;}
+#fb{
+    left:34px;
+    width:38px;
+    background:url('img\social.png') 0px 0px;
+    }
+#fb a:hover{background: url('img\social.png') 0px -102px;}
 
-#tw{left:68px;width:38px;}
-#tw{background:url('img\social.png') -47px 0;}
-#tw a:hover{background: url('img\social.png') -47px -45px;}
+#tw{
+    left:68px;
+    width:38px;
+    background:url('img\social.png') -0px 0px; 
+    }
+#tw a:hover{background: url('img\social.png') -47px -136px;}
 
-#gpl{left:102px;width:43px;}
-#gpl{background:url('img\social.png') -91px 0;}
-#gpl a:hover{background: url('img\social.png') -91px -45px;}
+#gpl{
+    left:102px;
+    width:43px;
+    background:url('img\social.png') -91px 0px;
+    }
+#gpl a:hover{background: url('img\social.png') -91px -170px;}

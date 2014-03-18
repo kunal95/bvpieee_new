@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="Nav_Bar/css/default.css" />
 		<link rel="stylesheet" type="text/css" href="Nav_Bar/css/component.css" />
 		<script src="Nav_Bar/js/modernizr.custom.js"></script>
-		<div class="nav" style="background:black;">
+		<div class="nav" style="background:rgba(211, 211, 211, 1);">
 			<ul id="cbp-tm-menu" class="cbp-tm-menu">
 				<li>
 					<a href="#">Home</a>

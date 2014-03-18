@@ -21,7 +21,7 @@
 			<br>
 			<header class="codrops-header">
 				<h1 style="margin:-3% 0 12% 0;">
-					<img src="header/img/BVPIEEE.png" style="float:center;" width="22%">
+					<img src="header/img/BVPIEEE.png" style="float:center;" width="44%">
 					<div style="float:right; margin:4% 3% 0 0;">
 						<img src="header/img/IEEE.png"  width="17%">	
 					</div>

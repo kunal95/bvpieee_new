@@ -20,7 +20,7 @@
 .cbp-tm-menu {
 	display: block;
 	position: absolute;
-	z-index: -1;
+	z-index: 1;
 	bottom: 0;
 	width: 100%;
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(66,158,229,1)), color-stop(100%,rgba(58,183,255,1)));

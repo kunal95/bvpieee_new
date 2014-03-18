@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 
 <html lang="en">
-
 <head>
 	<meta charset="utf-8" />
 	<title>Drop-Down Navigation: Touch-Friendly and Responsive demo by Osvaldas Valutis</title>
@@ -13,250 +12,22 @@
 	<link rel="icon" href="/theme/img/favicon.ico" />
 	<link rel="stylesheet" href="main.css" />
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400">
-	<style>
-
-		body
-		{
-			background-color: #f7efeb;
-			padding: 1.25em; /* 20 */
-		}
-
-		#nav
-		{
-			width: 60em; /* 1000 */
-			font-family: 'Open Sans', sans-serif;
-			font-weight: 400;
-			position: absolute;
-			top: 25%;
-			left: 50%;
-			margin-left: -30em; /* 30 480 */
-		}
-
-			#nav > a
-			{
-				display: none;
-			}
-
-			#nav li
-			{
-				position: relative;
-			}
-				#nav li a
-				{
-					color: #fff;
-					display: block;
-				}
-				#nav li a:active
-				{
-					background-color: #c00 !important;
-				}
-
-			#nav span:after
-			{
-				width: 0;
-				height: 0;
-				border: 0.313em solid transparent; /* 5 */
-				border-bottom: none;
-				border-top-color: #efa585;
-				content: '';
-				vertical-align: middle;
-				display: inline-block;
-				position: relative;
-				right: -0.313em; /* 5 */
-			}
-
-			/* first level */
-
-			#nav > ul
-			{
-				height: 3.75em; /* 60 */
-				background-color: #e15a1f;
-			}
-				#nav > ul > li
-				{
-					width: 25%;
-					height: 100%;
-					float: left;
-				}
-					#nav > ul > li > a
-					{
-						height: 100%;
-						font-size: 1.5em; /* 24 */
-						line-height: 2.5em; /* 60 (24) */
-						text-align: center;
-					}
-						#nav > ul > li:not( :last-child ) > a
-						{
-							border-right: 1px solid #cc470d;
-						}
-						#nav > ul > li:hover > a,
-						#nav > ul:not( :hover ) > li.active > a
-						{
-							background-color: #cc470d;
-						}
-
-
-				/* second level */
-
-				#nav li ul
-				{
-					background-color: #cc470d;
-					display: none;
-					position: absolute;
-					top: 100%;
-				}
-					#nav li:hover ul
-					{
-						display: block;
-						left: 0;
-						right: 0;
-					}
-						#nav li:not( :first-child ):hover ul
-						{
-							left: -1px;
-						}
-						#nav li ul a
-						{
-							font-size: 1.25em; /* 20 */
-							border-top: 1px solid #e15a1f;
-							padding: 0.75em; /* 15 (20) */
-						}
-							#nav li ul li a:hover,
-							#nav li ul:not( :hover ) li.active a
-							{
-								background-color: #e15a1f;
-							}
-
-
-		@media only screen and ( max-width: 62.5em ) /* 1000 */
-		{
-			#nav
-			{
-				width: 100%;
-				position: static;
-				margin: 0;
-			}
-		}
-
-		@media only screen and ( max-width: 40em ) /* 640 */
-		{
-			html
-			{
-				font-size: 75%; /* 12 */
-			}
-
-			#nav
-			{
-				position: relative;
-				top: auto;
-				left: auto;
-			}
-				#nav > a
-				{
-					width: 3.125em; /* 50 */
-					height: 3.125em; /* 50 */
-					text-align: left;
-					text-indent: -9999px;
-					background-color: #e15a1f;
-					position: relative;
-				}
-					#nav > a:before,
-					#nav > a:after
-					{
-						position: absolute;
-						border: 2px solid #fff;
-						top: 35%;
-						left: 25%;
-						right: 25%;
-						content: '';
-					}
-					#nav > a:after
-					{
-						top: 60%;
-					}
-
-				#nav:not( :target ) > a:first-of-type,
-				#nav:target > a:last-of-type
-				{
-					display: block;
-				}
-
-
-			/* first level */
-
-			#nav > ul
-			{
-				height: auto;
-				display: none;
-				position: absolute;
-				left: 0;
-				right: 0;
-			}
-				#nav:target > ul
-				{
-					display: block;
-				}
-				#nav > ul > li
-				{
-					width: 100%;
-					float: none;
-				}
-					#nav > ul > li > a
-					{
-						height: auto;
-						text-align: left;
-						padding: 0 0.833em; /* 20 (24) */
-					}
-						#nav > ul > li:not( :last-child ) > a
-						{
-							border-right: none;
-							border-bottom: 1px solid #cc470d;
-						}
-
-
-				/* second level */
-
-				#nav li ul
-				{
-					position: static;
-					padding: 1.25em; /* 20 */
-					padding-top: 0;
-				}
-		}
-
-	</style>
 </head>
-
 <body>
-
-
-
-
-<!--
-	AD
--->
-
-<script>(function(){var bsa=document.createElement('script');bsa.type='text/javascript';bsa.async=true;bsa.src='//s3.buysellads.com/ac/bsa.js';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);})();</script>
-<div id="ad" class="dark">
-	<a href="#" id="ad-close" onclick="this.parentNode.style.display='none';return false;" title="Close the ad">Close the ad</a>
-	<a href="http://adpacks.com" target="_blank" id="bsap_aplink">via Ad Packs</a>
-	<div id="bsap_1275795" class="bsarocks bsap_32290cc676522800c8e2b4d1ac090a4c"></div>
-</div>
-
-
-
-<!--
-	DEMO
--->
-
+<script>
+	(function(){var bsa=document.createElement('script');bsa.type='text/javascript';bsa.async=true;bsa.src='//s3.buysellads.com/ac/bsa.js';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);})();
+</script>
 
 <nav id="nav" role="navigation">
 	<a href="#nav" title="Show navigation">Show navigation</a>
 	<a href="#" title="Hide navigation">Hide navigation</a>
 	<ul class="clearfix">
 		<li><a href="?home">Home</a></li>
+		<li><a href="?home">IEEE</a></li>
+		<li><a href="?home">IEEE-HKN</a></li>
+		<li><a href="?home">WIE</a></li>
 		<li>
-			<a href="?blog" aria-haspopup="true"><span>Blog</span></a>
+			<a href="?blog" aria-haspopup="true"><span>Events</span></a>
 			<ul>
 				<li><a href="?design">Design</a></li>
 				<li><a href="?html">HTML</a></li>
@@ -265,38 +36,28 @@
 			</ul>
 		</li>
 		<li>
-			<a href="?work" aria-haspopup="true"><span>Work</span></a>
+			<a href="?work" aria-haspopup="true"><span>Publications</span></a>
 			<ul>
 				<li><a href="?webdesign">Web Design</a></li>
 				<li><a href="?typography">Typography</a></li>
 				<li><a href="?frontend">Front-End</a></li>
 			</ul>
 		</li>
-		<li><a href="?about">About</a></li>
+		<li><a href="?home">SIGs</a></li>
+		<li>
+			<a href="?work" aria-haspopup="true"><span>Executive Community</span></a>
+			<ul>
+				<li><a href="?webdesign">Web Design</a></li>
+				<li><a href="?typography">Typography</a></li>
+				<li><a href="?frontend">Front-End</a></li>
+			</ul>
+		</li>
+		<li><a href="?home">Gallery</a></li>
+		<li><a href="?about">Contact Us</a></li>
 	</ul>
 </nav>
 
 
-
-<!--
-	META
--->
-
-<div id="meta" class="dark">
-	<ul>
-		<li><a href="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" id="back-to-article" title="Drop-Down Navigation: Touch-Friendly and Responsive">Article</a></li>
-		<li><a href="http://facebook.com/sharer/sharer.php?u=http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" target="_blank" rel="nofollow" class="socialite facebook-like" data-href="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false">Like</a></li>
-		<li><a href="http://plus.google.com/share?url=http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" target="_blank" rel="nofollow" class="socialite googleplus-one" data-size="medium" data-href="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly">+1</a></li>
-		<li><a href="http://twitter.com/intent/tweet?url=http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly&amp;text=Drop-Down Navigation: Touch-Friendly and Responsive&amp;via=osvaldas" target="_blank" rel="nofollow" class="socialite twitter-share" data-text="Drop-Down Navigation: Touch-Friendly and Responsive &ndash;" data-url="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" data-via="osvaldas" data-related="osvaldas" data-count="horizontal">Tweet</a></li>
-		<li><a href="http://twitter.com/osvaldas" class="socialite twitter-follow" target="_blank" rel="me" data-type="follow" data-show-count="true">Follow @osvaldas</a></li>
-	</ul>
-</div>
-
-
-
-<!--
-	LAST BITS
--->
 
 <script src="main.js"></script>
 <script src="doubletaptogo.js"></script>

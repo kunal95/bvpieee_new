@@ -33,22 +33,29 @@ a:hover{
 
 #nav
 {
-	width: 60em; /* 1000 */
+	width: 100%; /* 1000 */
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	position: absolute;
-	top: 25%;
-	left: 50%;
-	margin-left: -30em; /* 30 480 */
-}
+	margin: 0 auto;
+	padding: 0;
+	display: inline-block;
+	text-align:center;
+	}
 
 	#nav > a
 	{
-		display: none;
+		width:10%;
+		text-align:center;
+		display:inline-block;
+		padding-bottom:13px;
+		padding-top:12px;
+		border-left: 1px solid #fff;
+		border-right: 1px solid #fff;
 	}
 	#nav li
 	{
-		position: relative;
+		display:inline;
 	}
 	#nav li a
 	{

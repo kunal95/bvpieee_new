@@ -51,8 +51,6 @@
 			}
 		</script>
 <?php include ("Nav_Bar/nav_bar.php"); ?>
-<div id="wrapper">
-</div>
 <?php include ("Slider/index2.php"); ?>
 <script type="text/javascript">	
 			$(function() {

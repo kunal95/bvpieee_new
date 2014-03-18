@@ -15,7 +15,6 @@
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Xplore Digital Library</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Standards</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Spectrum</span></a>
-					<a class="codrops-icon codrops-icon-drop" href=""><span style="color:rgba(66,158,229,1)">SignUp/Login</span></a>
 				</span>
 			</div>
 			<br>

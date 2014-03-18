@@ -180,7 +180,7 @@
 	content: "\e004";
 }
 
-@media screen and (max-width: 55em) {
+@media screen and (max-width: 60em) {
 
 	.nav > header h1,
 	.nav > header nav {

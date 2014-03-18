@@ -11,7 +11,7 @@
 			jQuery("#responsive_headline").fitText();
 		</script>
 	</head>
-<body>
+<body style="z-index:-100;">
 <?php include ("Header/header.php"); ?>
 </body>
 <body>
@@ -50,8 +50,12 @@
 				}
 			}
 		</script>
+<body style="z-index:-100;">
 <?php include ("Nav_Bar/nav_bar.php"); ?>
+</body>
+<body style="z-index:-100;">
 <?php include ("Slider/index2.php"); ?>
+</body>
 <script type="text/javascript">	
 			$(function() {
 			

@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="header/css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="header/css/style5.css" />
   		<script src="header/js/modernizr.custom.js"></script>
-		<div class="container"  style="background:rgba(211, 211, 211, 1);height:260px;">
+		<div class="container"  style="background:rgba(236, 236, 236, 1);height:260px;">
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
 				<section style="float:left; height:inherit;">
@@ -19,9 +19,9 @@
 			<br>
 			<header class="codrops-header">
 				<h1 style="">
-					<img src="header/img/bvp_logo.png"  width="14%" style="float:left; ">
-					<img src="header/img/BVPIEEE.png" style="float:center;" width="35%">
-					<img src="header/img/IEEE.png"  width="14%" style="float:right; ">	
+					<img src="header/img/bvp_logo.png"  width="14%" style="float:left; margin: 35 0 0 35; ">
+					<img src="header/img/BVPIEEE.png" style="float:center; " width="35%">
+					<img src="header/img/IEEE.png"  width="14%" style="float:right; margin: 55 35 0 0 ">	
 				</h1>
 			</header>
 		</div><!-- /container -->

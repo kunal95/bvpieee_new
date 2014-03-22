@@ -71,6 +71,8 @@ a:hover, a:focus {
 .codrops-top span.right {
 	float: right;
 	display:inline;
+	margin-right: 7;
+	margin-top: 3;
 }
 
 .codrops-top span.right a {

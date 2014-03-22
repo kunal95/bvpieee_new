@@ -4,25 +4,24 @@
 		<link rel="stylesheet" type="text/css" href="header/css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="header/css/style5.css" />
   		<script src="header/js/modernizr.custom.js"></script>
-		<div class="container"  style="background:rgba(211, 211, 211, 1);height:360px;">
+		<div class="container"  style="background:rgba(211, 211, 211, 1);height:260px;">
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
-				<section style="float:left; margin-top:-3.1%;">
+				<section style="float:left; height:inherit;">
 					<p><button id="trigger-overlay" type="button">Note from the Chairperson</button></p>
 				</section>
 				<span class="right">
-					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE.org</span></a>
-					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Xplore Digital Library</span></a>
+					<a class="codrops-icon codrops-icon-drop" href=""><span>Xplore Digital Library</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Standards</span></a>
 					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Spectrum</span></a>
 				</span>
 			</div>
 			<br>
 			<header class="codrops-header">
-				<h1 style="margin:-3% 0 12% 0;">
-					<img src="header/img/bvp_logo.png"  width="14%" style="float:left; margin:4% 0 0 3%;">
+				<h1 style="">
+					<img src="header/img/bvp_logo.png"  width="14%" style="float:left; ">
 					<img src="header/img/BVPIEEE.png" style="float:center;" width="35%">
-					<img src="header/img/IEEE.png"  width="14%" style="float:right; margin:4% 3% 0 0;">	
+					<img src="header/img/IEEE.png"  width="14%" style="float:right; ">	
 				</h1>
 			</header>
 		</div><!-- /container -->

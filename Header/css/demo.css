@@ -34,7 +34,6 @@ a:hover, a:focus {
 
 .codrops-header {
 	margin: 0 auto;
-	padding: 2em 0 0;
 	text-align: center; 
 }
 
@@ -59,22 +58,23 @@ a:hover, a:focus {
 	font-size: 0.69em;
 	line-height: 2.2;
 	background: #535353;
-	height:29px;
+	height:34px;
+	border-radius: 	0 0 10px 10px;
 }
 
 .codrops-top a {
 	display: inline-block;
-	padding: 0 1em;
+	padding: 0 4px;
 	text-decoration: none;
 }
 
 .codrops-top span.right {
 	float: right;
-	margin-right: 2%;
+	display:inline;
 }
 
 .codrops-top span.right a {
-	display: block;
+	display: inline-block;
 	float: left;
 }
 
@@ -111,7 +111,6 @@ section button {
 	color: #535353;
 	font-weight: 350;
 	padding: 10px 20px;
-	margin: 5px;
 	border-radius: 	0 0 10px 10px ;
 	letter-spacing: 1px;
 }
@@ -123,15 +122,14 @@ section button {
 }
 
 section {
-	padding: 1em 2em 5em;
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.5em
+	
 }
 
 section p {
-	max-width: 600px;
+	max-width: 300px;
 	margin: 0 auto;
-	padding: 15px 0;
 }
 
 section button {

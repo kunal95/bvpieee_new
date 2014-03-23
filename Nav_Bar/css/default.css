@@ -22,7 +22,7 @@
 	width: 90%;
 	max-width: 69em;
 	margin: 0 auto;
-	z-index: 1;
+	z-index: inherit;
 	position: relative;
 	padding: 2.875em 1.875em 1.875em;
 }
@@ -30,7 +30,7 @@
 .nav {
 	height: 9%;
 	position: relative;
-	z-index:1;
+	z-index:inherit;
 }
 
 .filler-above,
@@ -207,7 +207,7 @@
 	.filler-below {
 		position: relative;
 		background: #f0f0f0;
-		height: auto;
+		height: 2px;
 	}
 
 }

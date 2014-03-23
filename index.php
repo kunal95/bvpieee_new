@@ -1,4 +1,4 @@
-<html>
+<html style="overflow-x:hidden;">
 	<head>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
@@ -11,10 +11,7 @@
 			jQuery("#responsive_headline").fitText();
 		</script>
 	</head>
-<body style="z-index:-100;">
 <?php include ("Header/header.php"); ?>
-</body>
-<body>
 <!--<audio loop autoplay>
   <source src="Oooh.mp3" type="audio/mpeg">
 </audio>-->
@@ -50,12 +47,8 @@
 				}
 			}
 		</script>
-<body style="position:static;">
 <?php include ("Nav_Bar/nav_bar.php"); ?>
-</body>
-<body style="position:static;">
 <?php include ("Slider/index2.php"); ?>
-</body>
 <script type="text/javascript">	
 			$(function() {
 			
@@ -124,7 +117,7 @@
 			});
 		</script>
 
-<div id="wrapper">
+<div id="wrapper" >
 	<div id="container">
 		<div id="left">
 			<p>This is the left column
@@ -163,5 +156,4 @@ setInterval(function() {
     .appendTo('#slideshow');
 },  3000);
 </script>
-</body>
 </html>

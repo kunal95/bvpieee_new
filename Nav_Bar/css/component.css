@@ -19,8 +19,8 @@
 /* set menu position; change here to set to relative or float, etc. */
 .cbp-tm-menu {
 	display: block;
-	position: absolute;
-	z-index: 1;
+	position: inherit;
+	z-index: 10;
 	bottom: 0;
 	width: 100%;
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(66,158,229,1)), color-stop(100%,rgba(58,183,255,1)));
@@ -33,13 +33,12 @@
 /* first level menu items */
 .cbp-tm-menu > li {
 	display: inline-block;
-	margin: 0 1.25%;
+	margin: 0 1.1%;
 	position: relative;
 }
 
 .cbp-tm-menu > li > a {
 	line-height: 4em;
-	padding: 0 0.3em;
 	font-size: 1.2em;
 	display: block;
 	color: #fff;

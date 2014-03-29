@@ -56,24 +56,3 @@ position:inherit;
     right: 10px; 
     bottom: 10px; 
 }
-
-#fb{
-    left:34px;
-    width:38px;
-    background:url('img\social.png') 0px 0px;
-    }
-#fb a:hover{background: url('img\social.png') 0px -102px;}
-
-#tw{
-    left:68px;
-    width:38px;
-    background:url('img\social.png') -0px 0px; 
-    }
-#tw a:hover{background: url('img\social.png') -47px -136px;}
-
-#gpl{
-    left:102px;
-    width:43px;
-    background:url('img\social.png') -91px 0px;
-    }
-#gpl a:hover{background: url('img\social.png') -91px -170px;}

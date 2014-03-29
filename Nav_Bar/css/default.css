@@ -28,7 +28,7 @@
 }
 
 .nav {
-	height: 9%;
+	height: inherit;
 	position: relative;
 	z-index:inherit;
 }

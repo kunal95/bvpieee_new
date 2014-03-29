@@ -124,7 +124,7 @@
 			</p>
 		</div>
 		<div id="right">
-			<p> <iframe src="https://www.google.com/calendar/embed?title=BVPIEEE%20&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=400&amp;wkst=1&amp;hl=en_GB&amp;bgcolor=%23ccccff&amp;src=bvpieee%40gmail.com&amp;color=%232952A3&amp;ctz=Asia%2FCalcutta" style=" border-width:0 " width="400" height="400" frameborder="0" scrolling="no"></iframe></p>
+		
 		</div>
 		<div id="right">
 			<p>This is 2nd right</p>
@@ -133,13 +133,8 @@
 			<p>This is 3rd right</p>
 		</div>
 	</div>
-	<div id="left_f">
+	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
 		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
-        <ul>
-            <li id="fb"><a href=""></a></li>
-            <li id="tw"><a href=""></a></li>
-            <li id="gpl"><a href=""></a></li>
-        </ul>
 		<p style="float:right; display:inline;">Keep In Touch
 		</p>
 	</div>

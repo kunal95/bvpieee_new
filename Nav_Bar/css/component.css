@@ -261,9 +261,15 @@ the right position for the arrow
 /* Media Queries */
 @media only screen and (max-width: 55.6875em) {
 	.cbp-tm-menu {
+		position: inherit;
+		z-index: 10;
+		bottom: 0;
 		width: 100%;
-		position: static;
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(66,158,229,1)), color-stop(100%,rgba(58,183,255,1)));
+		text-align: center;
+		padding: 0 2px;
 		margin: 0;
+		text-transform: capitalize;
 	}
 }
 

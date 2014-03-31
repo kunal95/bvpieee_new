@@ -48,7 +48,6 @@
 			}
 		</script>
 <?php include ("Nav_Bar/nav_bar.php"); ?>
-<?php include ("Slider/index2.php"); ?>
 <script type="text/javascript">	
 			$(function() {
 			

@@ -123,7 +123,7 @@
 			</p>
 		</div>
 		<div id="right">
-		
+			<p>This is 1st right</p>
 		</div>
 		<div id="right">
 			<p>This is 2nd right</p>

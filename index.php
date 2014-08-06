@@ -12,9 +12,7 @@
 		</script>
 	</head>
 <?php include ("Header/header.php"); ?>
-<audio loop autoplay>
-  <source src="Oooh.mp3" type="audio/mpeg">
-</audio>
+
 <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
@@ -133,6 +131,7 @@
 			<p>This is 3rd right</p>
 		</div>
 	</div>
+<?php include ("Footer/footer.php"); ?>
 	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
 		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
 		<p style="float:right; display:inline;">Keep In Touch
